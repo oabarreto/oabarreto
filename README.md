@@ -3,7 +3,7 @@
 
 - :computer: I’m a Front - End Developer and learning enthusiast 
 
-- :books: I’m currently learning Typescript, React and more about Front End development 
+- :books: I’m currently learning Typescript, React, Sass and more about Front End development 
 
 - :hammer: I'm looking to create new projects and solve problems with code
 
@@ -18,7 +18,9 @@
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 _&nbsp;_ _&nbsp;_
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
