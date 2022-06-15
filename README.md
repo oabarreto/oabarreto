@@ -1,7 +1,7 @@
 # Hi, I'm Otávio! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30" height="30"/> _&nbsp;_   _&nbsp;_ _&nbsp;_   _&nbsp;_ ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 
-- :computer: I’m a Front - End Developer and learning enthusiast 
+- :computer: I’m a Front-End Developer and learning enthusiast 
 
 - :books: I’m currently learning Typescript, React, Sass and more about Front End development 
 
