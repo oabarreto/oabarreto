@@ -1,13 +1,13 @@
 # Hi, I'm Otávio! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30" height="30"/> _&nbsp;_   _&nbsp;_ _&nbsp;_   _&nbsp;_ ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
+## Desenvolvedor Frontend
 
-- :computer: I’m a Front-End Developer and learning enthusiast 
+🇧🇷 Sou um desenvolvedor frontend com experiência profissional em **React**, **React Native**, **Next.js**, **Tailwind CSS** e na criação de **Design Systems**, além de ter trabalhado com projetos de **front-end legado**. Apaixonado por aprender algo novo, estou sempre em busca de expandir meu conhecimento e habilidades. Gosto de criar soluções inovadoras e resolver problemas através do código, com foco em otimização, escalabilidade e usabilidade. Atualmente, estou explorando novas tecnologias e desenvolvendo projetos que desafiem meus limites.
 
-- :books: I’m currently learning Typescript, React, Sass and more about Front End development 
+🇺🇸 I am a frontend developer with professional experience in **React**, **React Native**, **Next.js**, **Tailwind CSS**, and **Design System** creation, in addition to having worked on **legacy front-end** projects. Passionate about learning new things, I am always looking to expand my knowledge and skills. I enjoy creating innovative solutions and solving problems through code, focusing on optimization, scalability, and usability. Currently, I’m exploring new technologies and developing projects that push my boundaries.
 
-- :hammer: I'm looking to create new projects and solve problems with code
 
-- :house_with_garden: I live in Rio de Janeiro, Brazil
+**I live in Rio de Janeiro, Brazil**
 
 <br> 
 
